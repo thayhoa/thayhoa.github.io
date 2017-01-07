@@ -2,12 +2,11 @@ body {
   font-family: Quicksand, sans-serif;
   line-height: 2em;
 }
-.scripture {
-   font-family: Tangerine, cursive; 
-}
 .franklin {
     font-family: "Libre Franklin", sans-serif;
+  word-spacing: 0.5em;
 }
-.baskerville {
-  font-family: 'Libre Baskerville', serif;
+.title {
+  font-family: Chonburi, cursive;
+  font-size: 1.5em;
 }
